@@ -1,0 +1,112 @@
+body
+{
+    font-family: sans-serif;
+}
+
+.navbar-brand
+{
+    color: white;
+}
+
+.navbar-brand:hover
+{
+    color: white;
+}
+
+.nav-link
+{
+    color: white;
+}
+
+.nav-link:hover
+{
+    color: white;
+}
+
+.home-photo
+{
+    background-image: url(../../images/intro-bg.jpg);
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    height: 100vh;
+}
+
+#home .home-photo
+{
+    color: white;
+   
+}
+
+.home-photo h1
+{
+    font-size: 4.5rem;
+    font-weight: 600;
+}
+
+.home-photo p
+{
+    font-weight: 600;
+    font-size: 2rem;
+}
+
+.home-photo
+{
+    position: relative;
+}
+
+.layer
+{
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.line{
+    width: 100px;
+    height: 5px;
+    border-top:blue solid 2px;
+}
+
+.content
+{
+    line-height: 2;
+}
+
+.info
+{
+    line-height: 2;
+}
+
+.about-border
+{
+    border-bottom: 3px blue solid;
+    width: 90px;
+  
+}
+
+.service-border
+{
+    border-bottom: 3px blue solid;
+    width: 40px;
+}
+
+.services
+{
+    border-radius: 15px;
+}
+
+.headers h2
+{
+    font-size: 1.4rem;
+}
+
+
+
+
+
+
+
+
